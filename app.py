@@ -35,7 +35,7 @@ with col:
     st.subheader("Enter Employee Details")
 
     exp = st.number_input("Experience (Years)", min_value=0.0, max_value=50.0, value=2.0)
-    edu = st.selectbox("Education Level", [0, 1, 2])
+    edu = st.selectbox("Education Level", [1, 2, 3])
     age = st.number_input("Age", min_value=18, max_value=70, value=25)
 
 # Create DataFrame for prediction
