@@ -7,7 +7,8 @@ import os
 
 st.set_page_config(page_title="Salary Predictor", layout="centered")
 
-st.title("💼 Salary Prediction App")
+st.title("💼 Salary Prediction App by Aniket")
+
 st.write("Enter the details below to predict the employee's salary.")
 
 MODEL_FILE = "Linear_model.pkl"
