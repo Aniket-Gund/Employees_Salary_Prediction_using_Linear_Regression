@@ -1,5 +1,7 @@
 # **📘 Linear Regression Salary Prediction – ML Project Overview**
 
+## **Live Project Link: https://employeessalarypredictionusinglinearregression-m33zhtcxfxacizp.streamlit.app/**
+
 ## **🎯 Objective**
 
 The objective of this Machine Learning project is to predict an employee’s salary based on three core factors:
